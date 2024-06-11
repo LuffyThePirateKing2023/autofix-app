@@ -47,7 +47,7 @@ git clone https://github.com/LuffyThePirateKing2023/autofix-app
 
 ### Contact
 
-If you want to contact with me you can reach me at [GMAIL](mailto:jkevin.garciano0@gmail.com).
+If you want to contact with me you can reach me at [GMAIL](https://mail.google.com/mail/u/0/#inbox).
 
 ### License
 
