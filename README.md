@@ -13,7 +13,7 @@
 
   Autofix is a fully responsive car service website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/autofix/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/LuffyThePirateKing2023/autofix-app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +36,18 @@ To run **Autofix** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/autofix.git
+sudo git clone https://github.com/LuffyThePirateKing2023/autofix-app
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/autofix.git
+git clone https://github.com/LuffyThePirateKing2023/autofix-app
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [GMAIL](mailto:jkevin.garciano0@gmail.com).
 
 ### License
 
