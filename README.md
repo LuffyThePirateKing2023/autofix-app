@@ -13,7 +13,7 @@
 
   Autofix is a fully responsive car service website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/LuffyThePirateKing2023/autofix-app"><strong>➥ Live Demo</strong></a>
+  <a href="https://luffythepirateking2023.github.io/autofix-app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
